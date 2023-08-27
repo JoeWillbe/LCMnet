@@ -1,6 +1,6 @@
 # LCMnet
-Source code for the paper "A Latent Code Based Multi-variable Modulation Network for Susceptibility Mapping‘’
-## A Latent Code Based Multi-variable Modulation Network for Susceptibility Mapping
+Source code for the paper "A Latent Code Based Multi-Variable Modulation Network for Susceptibility Mapping‘’
+## A Latent Code Based Multi-Variable Modulation Network for Susceptibility Mapping
 The implementation of LCMnet for QSM reconstruction network  <br />
 This code was built and tested on Centos 7
 
