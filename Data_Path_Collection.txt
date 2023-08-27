@@ -1,0 +1,29 @@
+#  this file for the collection of test data path
+#  the path after the sign * is for testing
+#  the path after the sign # is excluded for testing
+#  eg,     # /home/joe/data1/data01.mat    /home/joe/data1/data01.mat  would not be read as the path
+#          * /home/joe/data2/data02.mat    /home/joe/data2/data02.mat  would be read as the path
+#  the name behind the path is the reault name you want to save after testing
+#  To avoid some potential problem,do only change for adding path or mark the path as included or excluded
+#  reading path from this txt file using the regular expression.(see function get_txt_path)
+# The Model name would be the part the result name
+
+
+++++ Data Path for Test with ground truth  ++++
+#    path   name:  model name+data name (_date)
+
+* /home/joe/test_set/Test_with_GT/sub001.mat        name: sub001
+* /home/joe/test_set/Test_with_GT/sub002.mat        name: sub002
+* /home/joe/test_set/Test_with_GT/sub003.mat        name: sub003
+* /home/joe/test_set/Test_with_GT/sub004.mat        name: sub004
+
+
+++++ Data Path for Test without ground truth  ++++
+
+# /home/joe/test_set/Test_without_GT/sub019.mat                  name:   sub019
+# /home/joe/test_set/Test_without_GT/sub023.mat                  name:   sub023
+
+
+
+
+
