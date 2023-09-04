@@ -11,11 +11,11 @@ Fig.1 The architecture of our proposed LCMnet network. (a)The main framework inc
 cross-fusion module, encoder and decoder blocks. (b) The detailed constitutions of some blocks.
 
 ## Python Dependencies
-numpy <\br>
-torch=1.7.0 <\br>
-tensorboard <\br>
-yaml <\br>
-scipy <\br>
+numpy <br />
+torch=1.7.0 <br />
+tensorboard <br />
+yaml <br />
+scipy <br />
 
 
 # run training
