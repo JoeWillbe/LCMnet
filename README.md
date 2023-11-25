@@ -16,7 +16,9 @@ torch=1.7.0 <br />
 tensorboard <br />
 yaml <br />
 scipy <br />
-
+matplotlib
+scikit-image 
+tensorboardX
 
 # run training
 ``` 
